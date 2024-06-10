@@ -3,7 +3,7 @@ package wordle;
 import java.util.Scanner;
 
 public class Wordle {
-    private static final String SECRET_WORD = "AP CSA";  
+    private static final String SECRET_WORD = "APPLE";  
     private static final int MAX_ATTEMPTS = 6;
 
     public static void main(String[] args) {
